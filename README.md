@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashPradhan
-- 💻 I’m currently a computer science student!
+- 💻 I’m currently a computer science student at UC Davis!
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me @yashpradhan
 <!---
