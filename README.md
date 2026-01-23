@@ -14,7 +14,7 @@ A personal project I’ve always wanted to build — a flight tracking simulator
 - Interactive tracking view (map + flight details)
 - Clean backend logic + real-time style updates
 
-🔗 **Current in the works**
+🔗 **Currently in the works**
 
 ---
 
